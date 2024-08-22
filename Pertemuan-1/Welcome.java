@@ -12,6 +12,6 @@ public class Welcome // mendeklarasikan kelas dengan nama Welcome
         System.out.println(greeting); // mencetak variabel greeting ke layar
         for (int i = 0; i < greeting.length(); i++) // looping for sepanjang variabel greeting bertipe string
             System.out.print("="); // mencetak "=" setiap looping sepanjang isi variabael greeting
-        System.out.println(); //
+        System.out.println(); 
     }
 }
