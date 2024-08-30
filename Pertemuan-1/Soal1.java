@@ -1,3 +1,9 @@
+/*
+ * Nama: Agra Anisa Ibtisamah
+ * NIM: 231511067
+ * Kelas: 2C
+ */
+
 public class Soal1 { // mendeklarasikan kelas dengan nama soal1
     public static void main(String[] args) {
         byte angka1 = 125; // variabel byte angka1 bernilai 125

@@ -1,3 +1,9 @@
+/*
+ * Nama: Agra Anisa Ibtisamah
+ * NIM: 231511067
+ * Kelas: 2C
+ */
+
 /**
  * This program displays a greeting for the reader.
  * @version 1.30 2014-02-27

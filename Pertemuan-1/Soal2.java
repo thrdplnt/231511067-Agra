@@ -1,3 +1,9 @@
+/*
+ * Nama: Agra Anisa Ibtisamah
+ * NIM: 231511067
+ * Kelas: 2C
+ */
+
 public class Soal2 { // mendeklarasikan kelas dengan nama soal2
     public static void main(String[] args) {
         int i = 42; // integer bertipe i dengan nilai 42
