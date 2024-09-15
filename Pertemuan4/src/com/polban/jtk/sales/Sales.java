@@ -1,7 +1,7 @@
 package com.polban.jtk.sales;
 
 // Kelas Sales untuk mengelola transaksi penjualan
-class Sales {
+public class Sales {
     private Product product;
     // Constructor
     public Sales(Product product) {

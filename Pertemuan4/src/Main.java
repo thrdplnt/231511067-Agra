@@ -1,4 +1,4 @@
-import com.polban.jtk.inventory.Product;
+import com.polban.jtk.sales.Product;
 import com.polban.jtk.sales.Sales;
 
 public class Main {

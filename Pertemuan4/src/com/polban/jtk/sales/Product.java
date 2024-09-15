@@ -1,7 +1,8 @@
 package com.polban.jtk.sales;
+import com.polban.jtk.sales.Product;
 
 // Kelas Product
-class Product {
+public class Product {
     // Atribut private untuk menyembunyikan informasi
     private String productName;
     private double price;
