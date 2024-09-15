@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class soal3 {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -39,10 +40,8 @@ public class soal3 {
                 return;
         }
 
-        // Menampilkan hasil operasi
         System.out.println(result);
 
-        // Menutup scanner
         scanner.close();
     }
 }
