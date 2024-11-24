@@ -119,7 +119,14 @@ public class FoodJaseraApp {
             int jumlah = scanner.nextInt();
 
             pesanan.tambahPesanan(pilihanMenu - 1, jumlah);
+            
+            System.out.print("Pesan lagi? (y/n): ");
+            lanjutPesan = scanner.next().equalsIgnoreCase("y");
+        }
 
+        pesanan.tampilkanRincian();
+    }
+}
 
 //  Sesudah Refactoring dan Clean Code
 package com.foodjasera;
