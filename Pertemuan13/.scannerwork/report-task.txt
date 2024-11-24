@@ -1,0 +1,6 @@
+projectKey=pbo
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=pbo
+ceTaskId=1a964b81-4c97-4443-8646-cc512840758e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=1a964b81-4c97-4443-8646-cc512840758e

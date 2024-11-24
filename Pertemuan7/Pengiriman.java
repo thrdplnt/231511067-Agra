@@ -1,4 +1,4 @@
-Public abstract class Pengiriman {
+public abstract class Pengiriman {
     protected String alamatPengiriman;
     protected double biayaDasar;
 
